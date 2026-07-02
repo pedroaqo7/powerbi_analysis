@@ -33,7 +33,7 @@ Every dashboard follows the same design principles:
 
 | Project | Description | Status |
 |---|---|---|
-| Sales Performance Dashboard | Outdoor/camping retail dataset — revenue, margin, product, and regional analysis | In progress |
+| Sales Performance Dashboard | Outdoor/camping retail dataset — revenue, margin, product, and regional analysis
 
 ## Tech Stack
 
