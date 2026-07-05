@@ -34,6 +34,7 @@ Every dashboard follows the same design principles:
 | Project | Description |
 |---|---|
 | Sales Performance Dashboard | Outdoor/camping retail dataset — revenue, margin, product, and regional analysis
+| Ratail Analysis Dashboard | Sales, profitability and customer cohort analysis
 
 ## Tech Stack
 
